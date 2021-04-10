@@ -7,3 +7,4 @@
 	path = EnvStats
 	url = https://github.com/alexkowa/envstats
 	shallow = true
+	registered = true
